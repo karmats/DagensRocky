@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<string name="progress_title">Vänta..</string>
+   	<string name="progress_text">Hämtar strip.</string>
+   	<string name="progress_text2">Laddar sida.</string>
+    <string name="app_name">Dagens Rocky</string>
+    <string name="previous">&lt;&lt;</string>
+    <string name="today">Dagens</string>
+    <string name="next">&gt;&gt;</string>
+    <string name="date_range">Datumet måste vara inom 1:a mars 2010 och dagens datum</string>
+</resources>
